@@ -1,8 +1,8 @@
-{
+{ "homepage": "https://jagruti1997-jn.github.io/airbnbsitedeploy",
   "name": "my-app",
-  "homepage": "https://jagruti1997-jn.github.io/airbnbsitedeploy",
+ 
   "version": "0.1.0",
-  "private": true,
+  "private":true,
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
